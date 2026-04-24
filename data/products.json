@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Noise headphone",
+        "price": "1300",
+        "description": "This is a pair of Noise over-ear wireless headphones in black. It features a cushioned headband and ear cups for comfort, built-in controls on the ear cup for music and call management, and a sleek matte finish. These headphones are designed for wireless Bluetooth connectivity, making them ideal for music, calls, and everyday use.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "Image": "/images/noise boom.webp"
+            }
+        ],
+        "category": "headphone",
+        "seller": "Amazon",
+        "stock": "5"
+    },
+    {
+        "name": "sleek black headphones",
+        "price": "1000",
+        "description": "Sleek black over-ear wireless headphones with a cushioned headband and soft ear cups for comfort.Features built-in controls for music and calls, offering a minimalist and modern design.Ideal for everyday listening, work, or travel.",
+        "ratings": 4.0,
+        "images": [
+            {
+                "Image": "/images/blue headset.jpg"
+            }
+        ],
+        "category": "headphone",
+        "seller": "Amazon",
+        "stock": "6"
+    },
+    {
+        "name": "Bluetooth Earbuds",
+        "price": "1008",
+        "description": "Compact wireless earbuds with a sleek black design and LED display for battery status.Comes in a portable charging case for convenience and on-the-go use.Ideal for music, calls, and everyday wireless listening.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "Image": "/images/earpot bluetooth.webp"
+            }
+        ],
+        "category": "headphone",
+        "seller": "flipkart",
+        "stock": "3"
+    },
+    {
+        "name": "smart watch",
+        "price": "1800",
+        "description": "These compact black wireless earbuds come with a sleek charging case featuring a clear LED battery display. The case is designed to store and charge the earbuds, making it highly portable and convenient for daily use. Ideal for music lovers and professionals, it offers a comfortable fit and seamless wireless listening experience on the go.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "Image": "/images/black smartwatch.jpg"
+            }
+        ],
+        "category": "watchs",
+        "seller": "flipkart",
+        "stock": "7"
+    },
+    {
+        "name":"circle display watch",
+        "price":"2000",
+        "description":"This stylish smartwatch features a sleek round dial with a vibrant touchscreen display and a comfortable silicone strap. It offers customizable watch faces, fitness tracking, and smart notifications for convenience. Perfect for everyday use, it combines modern design with essential smart features.",
+        "ratings":"4.8",
+        "images": [
+            {
+                "image":"/images/curve display watch.webp"
+              
+            }
+        ], 
+        "category":"watchs",
+        "seller":"Amazon",
+        "stock":"6"  
+
+    },
+     {
+        "name":"boat watch",
+        "price":"",
+        "description":"This sleek black smartwatch features a stylish round dial with a vibrant digital display. It offers real-time fitness tracking, including heart rate, steps, and calories burned, along with battery percentage and time display. Perfect for fitness enthusiasts and daily wear, it combines modern design with smart functionality.",
+        "ratings":"4.0",
+        "images": [
+            {
+                "image":"/images/smartwatch.jpg"
+              
+            }
+        ], 
+        "category":"watchs",
+        "seller":"Amazon",
+        "stock":"3"  
+
+    },
+
+    
+    
+    {
+        "name": "hp laptop",
+        "price": "33000",
+        "description": "This HP laptop features a 13th Gen Intel Core i5-1334U processor, delivering powerful performance for multitasking and productivity. It comes with a Full HD anti-glare display for clear, comfortable viewing and includes Microsoft Office 2024 pre-installed.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "Image": "/images/hp brand laptop.webp"
+            }
+        ],
+        "category": "laptop",
+        "seller": "flipkart",
+        "stock": "5"
+    },
+    {
+        "name": "hp laptop",
+        "price": "30000",
+        "description": "This HP Pavilion laptop combines sleek design with powerful performance for work and entertainment. It features a modern slim bezel display, full-size keyboard, and a responsive touchpad for an enhanced user experience. Perfect for multitasking, streaming, and everyday computing needs.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "Image": "/images/hp pavillon laptop.webp"
+            }
+        ],
+        "category": "laptop",
+        "seller": "flipkart",
+        "stock": "2"
+    },
+    {
+        "name": "hp laptop",
+        "price": "32000",
+        "description": "This ASUS ROG laptop features a premium design with a slim bezel display and the iconic ROG logo on the screen. Built for gamers and power users, it delivers high-end performance and stunning visuals for an immersive experience. Perfect for gaming, content creation, and multitasking.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "Image": "/images/asus laptop.jpg"
+            }
+        ],
+        "category": "laptop",
+        "seller": "Amazon",
+        "stock": "4"
+    },
+    {
+        "name": "oppo",
+        "price": "15000",
+        "description": "This sleek smartphone features a modern design with a large bezel-less display and a punch-hole front camera. It comes with a triple rear camera setup for sharp and vibrant photography. Perfect for multitasking, entertainment, and capturing stunning moments with style.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "Image": "/images/oppok12.png"
+            }
+        ],
+        "category": "mobile",
+        "seller": "Amazon",
+        "stock": "4"
+    },
+    {
+        "name": "samsung",
+        "price": "18000",
+        "description": "This Samsung smartphone features a sleek design with a large edge-to-edge display and a waterdrop notch for the front camera. It sports a triple rear camera setup for versatile photography and a glossy gradient finish for a premium look. Perfect for everyday use, multitasking, and capturing stunning photos.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "Image": "/images/samsung.webp"
+            }
+        ],
+        "category": "mobile",
+        "seller": "flipkart",
+        "stock": "6"
+    },
+    {
+        "name": "vivo",
+        "price": "16000",
+        "description": "The Vivo T3x 5G is a sleek smartphone with a large punch-hole display and slim bezels. It features a stylish circular dual-camera setup on the back with a metallic ring. The device supports 5G connectivity and is designed for high performance with a modern look.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "Image": "/images/vivo.webp"
+            }
+        ],
+        "category": "mobile",
+        "seller": "flipkart",
+        "stock": "5"
+    }
+
+]
